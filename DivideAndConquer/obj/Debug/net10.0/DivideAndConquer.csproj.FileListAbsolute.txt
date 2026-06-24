@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\bin\Debug\net10.0\DivideAndConquer.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\bin\Debug\net10.0\DivideAndConquer.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\bin\Debug\net10.0\DivideAndConquer.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\bin\Debug\net10.0\DivideAndConquer.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\bin\Debug\net10.0\DivideAndConquer.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\refint\DivideAndConquer.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\DivideAndConquer.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\DivideAndConquer\obj\Debug\net10.0\ref\DivideAndConquer.dll
