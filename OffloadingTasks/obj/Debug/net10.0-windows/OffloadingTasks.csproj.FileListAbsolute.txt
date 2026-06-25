@@ -1,0 +1,17 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\bin\Debug\net10.0-windows\OffloadingTasks.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\bin\Debug\net10.0-windows\OffloadingTasks.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\bin\Debug\net10.0-windows\OffloadingTasks.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\bin\Debug\net10.0-windows\OffloadingTasks.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\bin\Debug\net10.0-windows\OffloadingTasks.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.Form1.resources
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.csproj.GenerateResource.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\refint\OffloadingTasks.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\OffloadingTasks.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\OffloadingTasks\obj\Debug\net10.0-windows\ref\OffloadingTasks.dll
