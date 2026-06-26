@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\bin\Debug\net10.0\GlobalMutexSync.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\bin\Debug\net10.0\GlobalMutexSync.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\bin\Debug\net10.0\GlobalMutexSync.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\bin\Debug\net10.0\GlobalMutexSync.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\bin\Debug\net10.0\GlobalMutexSync.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\refint\GlobalMutexSync.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\GlobalMutexSync.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\GlobalMutexSync\obj\Debug\net10.0\ref\GlobalMutexSync.dll
