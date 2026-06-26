@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\bin\Debug\net10.0\ThreadSynchronisation.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\bin\Debug\net10.0\ThreadSynchronisation.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\bin\Debug\net10.0\ThreadSynchronisation.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\bin\Debug\net10.0\ThreadSynchronisation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\bin\Debug\net10.0\ThreadSynchronisation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\refint\ThreadSynchronisation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ThreadSynchronisation.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadSynchronisation\obj\Debug\net10.0\ref\ThreadSynchronisation.dll
