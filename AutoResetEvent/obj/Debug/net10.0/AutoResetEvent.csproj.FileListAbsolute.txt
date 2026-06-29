@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\bin\Debug\net10.0\AutoResetEvent.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\bin\Debug\net10.0\AutoResetEvent.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\bin\Debug\net10.0\AutoResetEvent.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\bin\Debug\net10.0\AutoResetEvent.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\bin\Debug\net10.0\AutoResetEvent.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\refint\AutoResetEvent.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\AutoResetEvent.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\AutoResetEvent\obj\Debug\net10.0\ref\AutoResetEvent.dll
