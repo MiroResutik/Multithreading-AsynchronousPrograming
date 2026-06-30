@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BlazorThreadAffinity/BlazorThreadAffinity.csproj" />
+  <Project Path="ThreadCancelation/ThreadCancelation.csproj" Id="c25d6179-a14a-4b69-9911-3f19b5c4610f" />
+  <Project Path="ThreadDeadlock/ThreadDeadlock.csproj" Id="707724a1-0bf8-4e62-904d-c87cca962bfb" />
+  <Project Path="ThreadStates/ThreadStates.csproj" Id="13d8b411-6595-43b8-a8ad-393e8b4d943a" />
+</Solution>
