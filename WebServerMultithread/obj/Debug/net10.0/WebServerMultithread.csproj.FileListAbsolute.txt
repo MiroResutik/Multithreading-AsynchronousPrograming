@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\bin\Debug\net10.0\WebServerMultithread.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\bin\Debug\net10.0\WebServerMultithread.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\bin\Debug\net10.0\WebServerMultithread.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\bin\Debug\net10.0\WebServerMultithread.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\bin\Debug\net10.0\WebServerMultithread.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\refint\WebServerMultithread.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\WebServerMultithread.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\WebServerMultithread\obj\Debug\net10.0\ref\WebServerMultithread.dll
