@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OffloadingTasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+527120f3f436a283d7ce8e4d1051d567c07abad3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+162fa00cf4f906726a136f9c7a5863fcc31f0ae4")]
 [assembly: System.Reflection.AssemblyProductAttribute("OffloadingTasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OffloadingTasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
