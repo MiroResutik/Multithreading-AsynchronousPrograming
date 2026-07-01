@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\bin\Debug\net10.0\SemaphoreThreadLimit.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\bin\Debug\net10.0\SemaphoreThreadLimit.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\bin\Debug\net10.0\SemaphoreThreadLimit.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\bin\Debug\net10.0\SemaphoreThreadLimit.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\bin\Debug\net10.0\SemaphoreThreadLimit.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\refint\SemaphoreThreadLimit.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\SemaphoreThreadLimit.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\SemaphoreThreadLimit\obj\Debug\net10.0\ref\SemaphoreThreadLimit.dll
