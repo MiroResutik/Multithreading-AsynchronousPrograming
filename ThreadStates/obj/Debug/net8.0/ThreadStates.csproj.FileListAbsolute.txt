@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\bin\Debug\net8.0\ThreadStates.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\bin\Debug\net8.0\ThreadStates.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\bin\Debug\net8.0\ThreadStates.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\bin\Debug\net8.0\ThreadStates.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\bin\Debug\net8.0\ThreadStates.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\refint\ThreadStates.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ThreadStates.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadStates\obj\Debug\net8.0\ref\ThreadStates.dll
