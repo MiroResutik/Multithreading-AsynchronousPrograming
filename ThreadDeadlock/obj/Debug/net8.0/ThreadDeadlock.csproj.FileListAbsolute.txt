@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\bin\Debug\net8.0\ThreadDeadlock.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\bin\Debug\net8.0\ThreadDeadlock.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\bin\Debug\net8.0\ThreadDeadlock.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\bin\Debug\net8.0\ThreadDeadlock.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\bin\Debug\net8.0\ThreadDeadlock.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\refint\ThreadDeadlock.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ThreadDeadlock.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadDeadlock\obj\Debug\net8.0\ref\ThreadDeadlock.dll
