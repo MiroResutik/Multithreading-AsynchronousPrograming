@@ -1,0 +1,113 @@
+﻿@page "/"
+
+<PageTitle>Thread Affinity Demo</PageTitle>
+
+<h1>Thread Affinity Demonstration</h1>
+
+<p>
+    Blazor UI updates must occur on the renderer's synchronization context.
+    Background threads cannot safely update the UI directly.
+</p>
+
+<hr />
+
+<p><strong>Current Time:</strong> @currentTime</p>
+<p><strong>Last Thread:</strong> @lastThread</p>
+<p><strong>Message:</strong> @message</p>
+
+<div class="mt-3">
+
+    <button class="btn btn-primary me-2"
+            @onclick="DisplayTime">
+        New Thread
+    </button>
+
+    <button class="btn btn-success me-2"
+            @onclick="DisplayTimeTask">
+        Task.Run
+    </button>
+
+    <button class="btn btn-warning me-2"
+            @onclick="DisplayTimeDelayed">
+        Async Delay
+    </button>
+
+    <button class="btn btn-secondary me-2"
+            @onclick="DisplayCurrentThread">
+        Current UI Thread
+    </button>
+
+</div>
+
+@code
+{
+    /*
+    | Button                | Demonstrates                                    | UI Update Needed                                                       |
+| --------------------- | ----------------------------------------------- | ---------------------------------------------------------------------- |
+| **Current UI Thread** | Runs directly on the renderer thread            | No `InvokeAsync()`                                                     |
+| **New Thread**        | Creates a dedicated `Thread`                    | `InvokeAsync()` required                                               |
+| **Task.Run**          | Uses a thread - pool thread                       | `InvokeAsync()` required                                               |
+| **Async Delay**       | Asynchronous work without creating a new thread | No explicit `InvokeAsync()` after `await` in a component event handler |
+*/
+
+
+    private string currentTime = "";
+    private string lastThread = "";
+    private string message = "";
+
+    void DisplayCurrentThread()
+    {
+        currentTime = DateTime.Now.ToLongTimeString();
+        lastThread = $"UI Thread: {Environment.CurrentManagedThreadId}";
+        message = "Running directly on the UI thread.";
+    }
+
+    void DisplayTime()
+    {
+        Thread thread = new Thread(() =>
+        {
+            Thread.Sleep(500);
+
+            var time = DateTime.Now.ToLongTimeString();
+            var threadId = Environment.CurrentManagedThreadId;
+
+            InvokeAsync(() =>
+            {
+                currentTime = time;
+                lastThread = $"Background Thread: {threadId}";
+                message = "Updated using InvokeAsync() from a Thread.";
+                StateHasChanged();
+            });
+        });
+
+        thread.Start();
+    }
+
+    async Task DisplayTimeTask()
+    {
+        await Task.Run(() =>
+        {
+            Thread.Sleep(500);
+
+            var time = DateTime.Now.ToLongTimeString();
+            var threadId = Environment.CurrentManagedThreadId;
+
+            InvokeAsync(() =>
+            {
+                currentTime = time;
+                lastThread = $"Task Thread: {threadId}";
+                message = "Updated using InvokeAsync() from Task.Run().";
+                StateHasChanged();
+            });
+        });
+    }
+
+    async Task DisplayTimeDelayed()
+    {
+        await Task.Delay(500);
+
+        currentTime = DateTime.Now.ToLongTimeString();
+        lastThread = $"Thread: {Environment.CurrentManagedThreadId}";
+        message = "Continued after await Task.Delay().";
+    }
+}
