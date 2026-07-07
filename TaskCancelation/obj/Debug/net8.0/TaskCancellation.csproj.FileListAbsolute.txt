@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\bin\Debug\net8.0\TaskCancellation.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\bin\Debug\net8.0\TaskCancellation.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\bin\Debug\net8.0\TaskCancellation.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\bin\Debug\net8.0\TaskCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\bin\Debug\net8.0\TaskCancellation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\refint\TaskCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\TaskCancellation.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskCancelation\obj\Debug\net8.0\ref\TaskCancellation.dll
