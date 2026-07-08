@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\bin\Debug\net8.0\TaskExceptionHandling.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\bin\Debug\net8.0\TaskExceptionHandling.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\bin\Debug\net8.0\TaskExceptionHandling.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\bin\Debug\net8.0\TaskExceptionHandling.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\bin\Debug\net8.0\TaskExceptionHandling.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\refint\TaskExceptionHandling.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\TaskExceptionHandling.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskExceptionHandling\obj\Debug\net8.0\ref\TaskExceptionHandling.dll
