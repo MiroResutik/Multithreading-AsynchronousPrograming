@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadDeadlock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b746263e6175ceb292d08bdea77bdc44a03e99")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f72d842c587c1b2c250e3b1f50216302bc42d896")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadDeadlock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadDeadlock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

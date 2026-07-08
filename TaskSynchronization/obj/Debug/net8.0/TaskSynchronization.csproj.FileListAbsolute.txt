@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\bin\Debug\net8.0\TaskSynchronization.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\bin\Debug\net8.0\TaskSynchronization.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\bin\Debug\net8.0\TaskSynchronization.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\bin\Debug\net8.0\TaskSynchronization.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\bin\Debug\net8.0\TaskSynchronization.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\refint\TaskSynchronization.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\TaskSynchronization.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskSynchronization\obj\Debug\net8.0\ref\TaskSynchronization.dll
