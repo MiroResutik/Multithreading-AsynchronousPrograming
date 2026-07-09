@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\bin\Debug\net8.0\Tasks.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\bin\Debug\net8.0\Tasks.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\bin\Debug\net8.0\Tasks.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\bin\Debug\net8.0\Tasks.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\Tasks\obj\Debug\net8.0\ref\Tasks.dll
