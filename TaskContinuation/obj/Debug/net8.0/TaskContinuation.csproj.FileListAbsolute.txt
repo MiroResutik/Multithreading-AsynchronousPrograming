@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\bin\Debug\net8.0\TaskContinuation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\refint\TaskContinuation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\TaskContinuation.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\TaskContinuation\obj\Debug\net8.0\ref\TaskContinuation.dll
