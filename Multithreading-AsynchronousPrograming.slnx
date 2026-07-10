@@ -1,6 +1,19 @@
 <Solution>
   <Project Path="BlazorThreadAffinity/BlazorThreadAffinity.csproj" />
+  <Project Path="BlockingCollection/BlockingCollection.csproj" Id="570f4fc2-2e90-487a-aa8b-6096b746e4b1" />
+  <Project Path="ParalellLoopCancellation/ParallelLoopCancellation.csproj" Id="32ffbee7-3241-42c1-953e-af40b3760c61" />
+  <Project Path="ParallelLoops/ParallelLoops.csproj" Id="ed532ef3-33cb-45cc-88d6-e1d66924585a" />
+  <Project Path="PLINQ/PLINQ.csproj" Id="e5e788de-51df-4e31-85f0-5ac3383f8b46" />
+  <Project Path="PLINQexceptionAndCancellation/PLINQexceptionAndCancellation.csproj" Id="a3f3e656-cfb7-4778-80a5-291f0db47b82" />
+  <Project Path="TaskCancelation/TaskCancellation.csproj" Id="ccb554dd-1374-4680-8652-2e49e33ba715" />
+  <Project Path="TaskContinuation/TaskContinuation.csproj" Id="5fa8c908-b8f2-42ce-aad2-0e02e667b172" />
+  <Project Path="TaskExceptionHandling/TaskExceptionHandling.csproj" Id="22484764-20df-4115-aa92-774b2d957057" />
+  <Project Path="Tasks/Tasks.csproj" Id="08d87cb7-bea3-4e68-959c-f464de73e5a3" />
+  <Project Path="TaskSynchronization/TaskSynchronization.csproj" Id="95389fa5-26d0-4152-a93e-59b4bdf7030b" />
+  <Project Path="TaskWait/TaskWait.csproj" Id="5a0d867c-e165-4dd5-9d03-dcc841f057c2" />
+  <Project Path="ThreadAsyncAndAwait/ThreadAsyncAndAwait.csproj" Id="f7bd2f3b-5de4-4d08-bfdd-79cc8bc562bc" />
   <Project Path="ThreadCancelation/ThreadCancelation.csproj" Id="c25d6179-a14a-4b69-9911-3f19b5c4610f" />
   <Project Path="ThreadDeadlock/ThreadDeadlock.csproj" Id="707724a1-0bf8-4e62-904d-c87cca962bfb" />
+  <Project Path="ThreadPool/ThreadPool.csproj" Id="506c569d-f960-44e1-bb08-7d3f19809159" />
   <Project Path="ThreadStates/ThreadStates.csproj" Id="13d8b411-6595-43b8-a8ad-393e8b4d943a" />
 </Solution>

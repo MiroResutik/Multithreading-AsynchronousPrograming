@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorThreadAffinity",
+    "\\OffloadingTasks",
+    "\\OffloadingTasks\\bin",
+    "\\OffloadingTasks\\bin\\Debug",
+    "\\ThreadSynchronisation",
+    "\\TwoWaySignalingAutoReset",
+    "\\WebServerMultithread"
+  ],
+  "SelectedNode": "\\BlazorThreadAffinity\\BlazorThreadAffinity.csproj",
+  "PreviewInSolutionExplorer": false
+}
