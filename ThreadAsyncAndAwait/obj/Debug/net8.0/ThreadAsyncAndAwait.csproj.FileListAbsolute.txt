@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\bin\Debug\net8.0\ThreadAsyncAndAwait.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\bin\Debug\net8.0\ThreadAsyncAndAwait.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\bin\Debug\net8.0\ThreadAsyncAndAwait.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\bin\Debug\net8.0\ThreadAsyncAndAwait.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\bin\Debug\net8.0\ThreadAsyncAndAwait.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\refint\ThreadAsyncAndAwait.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ThreadAsyncAndAwait.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ThreadAsyncAndAwait\obj\Debug\net8.0\ref\ThreadAsyncAndAwait.dll
