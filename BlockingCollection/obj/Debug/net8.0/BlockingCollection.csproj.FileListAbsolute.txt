@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\bin\Debug\net8.0\BlockingCollection.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\bin\Debug\net8.0\BlockingCollection.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\bin\Debug\net8.0\BlockingCollection.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\bin\Debug\net8.0\BlockingCollection.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\bin\Debug\net8.0\BlockingCollection.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\refint\BlockingCollection.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\BlockingCollection.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\BlockingCollection\obj\Debug\net8.0\ref\BlockingCollection.dll
