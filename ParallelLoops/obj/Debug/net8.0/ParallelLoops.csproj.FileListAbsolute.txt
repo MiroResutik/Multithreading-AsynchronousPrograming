@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\bin\Debug\net8.0\ParallelLoops.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\bin\Debug\net8.0\ParallelLoops.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\bin\Debug\net8.0\ParallelLoops.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\bin\Debug\net8.0\ParallelLoops.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\bin\Debug\net8.0\ParallelLoops.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\refint\ParallelLoops.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ParallelLoops.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParallelLoops\obj\Debug\net8.0\ref\ParallelLoops.dll
