@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\bin\Debug\net8.0\ParallelLoopCancellation.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\bin\Debug\net8.0\ParallelLoopCancellation.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\bin\Debug\net8.0\ParallelLoopCancellation.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\bin\Debug\net8.0\ParallelLoopCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\bin\Debug\net8.0\ParallelLoopCancellation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\refint\ParallelLoopCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ParallelLoopCancellation.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\ParalellLoopCancellation\obj\Debug\net8.0\ref\ParallelLoopCancellation.dll
