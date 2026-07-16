@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\bin\Debug\net8.0\PLINQ.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\bin\Debug\net8.0\PLINQ.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\bin\Debug\net8.0\PLINQ.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\bin\Debug\net8.0\PLINQ.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\bin\Debug\net8.0\PLINQ.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\refint\PLINQ.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\PLINQ.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQ\obj\Debug\net8.0\ref\PLINQ.dll
