@@ -1,0 +1,15 @@
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\bin\Debug\net8.0\PLINQexceptionAndCancellation.exe
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\bin\Debug\net8.0\PLINQexceptionAndCancellation.deps.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\bin\Debug\net8.0\PLINQexceptionAndCancellation.runtimeconfig.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\bin\Debug\net8.0\PLINQexceptionAndCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\bin\Debug\net8.0\PLINQexceptionAndCancellation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.AssemblyInfoInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.AssemblyInfo.cs
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.csproj.CoreCompileInputs.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.sourcelink.json
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\refint\PLINQexceptionAndCancellation.dll
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.pdb
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\PLINQexceptionAndCancellation.genruntimeconfig.cache
+C:\Users\Miro\source\repos\Multithreading-AsynchronousPrograming\PLINQexceptionAndCancellation\obj\Debug\net8.0\ref\PLINQexceptionAndCancellation.dll
