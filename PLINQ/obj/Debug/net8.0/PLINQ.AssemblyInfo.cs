@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PLINQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1df1e494355e1c8a8d7d4d720706990ce321a7d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+090b96a8c46ce3a138e33eec02aa09eaf3f8c0e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PLINQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PLINQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
