@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{ED532EF3-33CB-45CC-88D6-E1D66924585A}|ParallelLoops\\ParallelLoops.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\parallelloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED532EF3-33CB-45CC-88D6-E1D66924585A}|ParallelLoops\\ParallelLoops.csproj|solutionrelative:parallelloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32FFBEE7-3241-42C1-953E-AF40B3760C61}|ParalellLoopCancellation\\ParallelLoopCancellation.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\paralellloopcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32FFBEE7-3241-42C1-953E-AF40B3760C61}|ParalellLoopCancellation\\ParallelLoopCancellation.csproj|solutionrelative:paralellloopcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E788DE-51DF-4E31-85F0-5AC3383F8B46}|PLINQ\\PLINQ.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E788DE-51DF-4E31-85F0-5AC3383F8B46}|PLINQ\\PLINQ.csproj|solutionrelative:plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F3E656-CFB7-4778-80A5-291F0DB47B82}|PLINQexceptionAndCancellation\\PLINQexceptionAndCancellation.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\plinqexceptionandcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F3E656-CFB7-4778-80A5-291F0DB47B82}|PLINQexceptionAndCancellation\\PLINQexceptionAndCancellation.csproj|solutionrelative:plinqexceptionandcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{570F4FC2-2E90-487A-AA8B-6096B746E4B1}|BlockingCollection\\BlockingCollection.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\blockingcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{570F4FC2-2E90-487A-AA8B-6096B746E4B1}|BlockingCollection\\BlockingCollection.csproj|solutionrelative:blockingcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7BD2F3B-5DE4-4D08-BFDD-79CC8BC562BC}|ThreadAsyncAndAwait\\ThreadAsyncAndAwait.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\threadasyncandawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7BD2F3B-5DE4-4D08-BFDD-79CC8BC562BC}|ThreadAsyncAndAwait\\ThreadAsyncAndAwait.csproj|solutionrelative:threadasyncandawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,84 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\ThreadAsyncAndAwait\\Program.cs",
-              "RelativeDocumentMoniker": "ThreadAsyncAndAwait\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\ThreadAsyncAndAwait\\Program.cs",
-              "RelativeToolTip": "ThreadAsyncAndAwait\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T07:06:00.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\BlockingCollection\\Program.cs",
-              "RelativeDocumentMoniker": "BlockingCollection\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\BlockingCollection\\Program.cs",
-              "RelativeToolTip": "BlockingCollection\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T11:13:55.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQexceptionAndCancellation\\Program.cs",
-              "RelativeDocumentMoniker": "PLINQexceptionAndCancellation\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQexceptionAndCancellation\\Program.cs",
-              "RelativeToolTip": "PLINQexceptionAndCancellation\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAC4AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T08:30:52.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQ\\Program.cs",
-              "RelativeDocumentMoniker": "PLINQ\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQ\\Program.cs",
-              "RelativeToolTip": "PLINQ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T08:04:32.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\ParalellLoopCancellation\\Program.cs",
-              "RelativeDocumentMoniker": "ParalellLoopCancellation\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\ParalellLoopCancellation\\Program.cs",
-              "RelativeToolTip": "ParalellLoopCancellation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T13:12:09.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\ParallelLoops\\Program.cs",
-              "RelativeDocumentMoniker": "ParallelLoops\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\ParallelLoops\\Program.cs",
-              "RelativeToolTip": "ParallelLoops\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T10:32:18.848Z",
-              "EditorCaption": ""
             }
           ]
         }
