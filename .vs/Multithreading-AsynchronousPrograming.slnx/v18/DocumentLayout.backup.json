@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A3F3E656-CFB7-4778-80A5-291F0DB47B82}|PLINQexceptionAndCancellation\\PLINQexceptionAndCancellation.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\plinqexceptionandcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3F3E656-CFB7-4778-80A5-291F0DB47B82}|PLINQexceptionAndCancellation\\PLINQexceptionAndCancellation.csproj|solutionrelative:plinqexceptionandcancellation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5E788DE-51DF-4E31-85F0-5AC3383F8B46}|PLINQ\\PLINQ.csproj|c:\\users\\miro\\source\\repos\\multithreading-asynchronousprograming\\plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E788DE-51DF-4E31-85F0-5AC3383F8B46}|PLINQ\\PLINQ.csproj|solutionrelative:plinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,37 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQ\\Program.cs",
-              "RelativeDocumentMoniker": "PLINQ\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQ\\Program.cs",
-              "RelativeToolTip": "PLINQ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T06:59:52.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQexceptionAndCancellation\\Program.cs",
-              "RelativeDocumentMoniker": "PLINQexceptionAndCancellation\\Program.cs",
-              "ToolTip": "C:\\Users\\Miro\\source\\repos\\Multithreading-AsynchronousPrograming\\PLINQexceptionAndCancellation\\Program.cs",
-              "RelativeToolTip": "PLINQexceptionAndCancellation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-09T08:30:52.961Z",
-              "EditorCaption": ""
             }
           ]
         }
